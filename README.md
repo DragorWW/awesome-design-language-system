@@ -59,9 +59,11 @@
 * https://medium.com/@theearlcarlson/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5
 * https://habrahabr.ru/company/everydaytools/blog/319700/
 * https://habrahabr.ru/post/320990/
-* https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-touch-target-size
 
 ## Grid
-* https://spec.fm/specifics/8-pt-grid
-* https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4
+* [Specifics 001: The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
+* [Sketch Workflow — 8 point Soft Grids](https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4)
+* [Intro to the 8-Point Grid System](https://medium.com/built-to-adapt/intro-to-the-8-point-grid-system-d2573cde8632)
+* [Google Material Design — Metrics & keylines article](https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-touch-target-size)
+* [Intuit’s Harmony Design System](http://harmony.intuit.com/grid/)
 
