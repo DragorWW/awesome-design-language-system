@@ -59,6 +59,7 @@
 * https://medium.com/@theearlcarlson/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5
 * [🇷🇺 4 правила работы в Sketch над крупными проектами](https://habrahabr.ru/post/320990/)
 * [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+* [Align svg icons to text](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 
 ## Grid
 * [Specifics 001: The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
