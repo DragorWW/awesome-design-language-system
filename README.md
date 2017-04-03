@@ -39,6 +39,7 @@
 * [Nordnet](https://www.nordnet.se/brand/)
 * [FutureLearn](https://www.futurelearn.com/pattern-library)
 * [Ubuntu](http://design.ubuntu.com/apps/get-started/overview)
+* [Carbon by IBM](http://carbondesignsystem.com/)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
