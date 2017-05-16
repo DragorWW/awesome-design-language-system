@@ -11,6 +11,7 @@
 - [Design system frontend](#Design-system-frontend)
 - [Blog post](#blog-post)
 - [Grid](#grid)
+- [Other](#other)
 
 
 ## List
@@ -76,3 +77,5 @@
 * [Google Material Design — Metrics & keylines article](https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-touch-target-size)
 * [Intuit’s Harmony Design System](http://harmony.intuit.com/grid/)
 
+## Other
+- [Style Guide Guide: A boilerplate for creating superb style guides](https://bradfrost.github.io/style-guide-guide)
