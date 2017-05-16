@@ -52,12 +52,12 @@
 * [Yelp](https://www.yelp.com/styleguide)
 
 ## Blog post
-* https://medium.com/@lewisplushumphreys/how-were-using-component-based-design-5f9e3176babb
-* https://medium.com/globoforce-design/creating-a-design-system-158a2d832551
-* https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc
-* https://medium.com/airbnb-design/building-a-visual-language-behind-the-scenes-of-our-airbnb-design-system-224748775e4e
-* http://airbnb.design/building-a-visual-language/
-* https://medium.com/@theearlcarlson/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5
+* [How we’re using Component Based Design](https://medium.com/@lewisplushumphreys/how-were-using-component-based-design-5f9e3176babb)
+* [Creating a Design System Language…](https://medium.com/globoforce-design/creating-a-design-system-158a2d832551)
+* [Plasma design system](https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc)
+* [Building a Visual Language: Behind the scenes of our Airbnb design system](https://medium.com/airbnb-design/building-a-visual-language-behind-the-scenes-of-our-airbnb-design-system-224748775e4e)
+* [Building a Visual Language](http://airbnb.design/building-a-visual-language/)
+* [A List of Style Guides, Brand Guidelines, and Front-End Frameworks](https://medium.com/@theearlcarlson/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5)
 * [🇷🇺 4 правила работы в Sketch над крупными проектами](https://habrahabr.ru/post/320990/)
 * [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 * [Align svg icons to text](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
