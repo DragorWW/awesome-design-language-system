@@ -61,6 +61,13 @@
 * [🇷🇺 4 правила работы в Sketch над крупными проектами](https://habrahabr.ru/post/320990/)
 * [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 * [Align svg icons to text](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
+* [Design Systems Sprint 0: The Silver Bullet of Product Development.](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+* [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
+* [Design System Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+* [Design System Sprint 3: Managing the Basics](https://medium.com/@marcintreder/design-system-sprint-3-managing-the-basics-50ff588cbac8)
+* [Design System Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
+* [Design System Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
+* [Design System Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 
 ## Grid
 * [Specifics 001: The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
