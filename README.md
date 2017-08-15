@@ -44,6 +44,7 @@
 * [Shopify Polaris](https://polaris.shopify.com/)
 * [Wonderbly Design System](http://design-system.lostmy.name/)
 * [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
+* [[🇷🇺]Контур.Гайды](https://guides.kontur.ru/)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
