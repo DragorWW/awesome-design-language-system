@@ -21,7 +21,7 @@
 * [Plasma design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 * [BBC Gel](http://www.bbc.co.uk/gel)
-* [Atlassian](https://design.atlassian.com/)
+* [Atlassian](https://atlassian.design/)
 * [Google Material Design](https://material.google.com/)
 * [Lightning (Salesforce)](https://www.lightningdesignsystem.com/)
 * [Mailchimp (email design guide)](http://mailchimp.com/resources/email-design-guide/)
@@ -41,6 +41,9 @@
 * [FutureLearn](https://www.futurelearn.com/pattern-library)
 * [Ubuntu](http://design.ubuntu.com/apps/get-started/overview)
 * [Carbon by IBM](http://carbondesignsystem.com/)
+* [Shopify Polaris](https://polaris.shopify.com/)
+* [Wonderbly Design System](http://design-system.lostmy.name/)
+* [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
@@ -51,6 +54,8 @@
 * [Ellucian](https://styleguide.elluciancloud.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Yelp](https://www.yelp.com/styleguide)
+* [Clarity Design System](https://vmware.github.io/clarity/)
+* [Co-op Design manual](https://coop-design-manual.herokuapp.com/)
 
 ## Blog post
 * [How we’re using Component Based Design](https://medium.com/@lewisplushumphreys/how-were-using-component-based-design-5f9e3176babb)
