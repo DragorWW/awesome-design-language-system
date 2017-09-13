@@ -21,7 +21,7 @@
 * [Plasma design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 * [BBC Gel](http://www.bbc.co.uk/gel)
-* [Atlassian](https://atlassian.design/)
+* [Atlassian Design Language](https://atlassian.design/)
 * [Google Material Design](https://material.google.com/)
 * [Lightning (Salesforce)](https://www.lightningdesignsystem.com/)
 * [Mailchimp (email design guide)](http://mailchimp.com/resources/email-design-guide/)
@@ -46,6 +46,8 @@
 * [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
 * [[🇷🇺]Контур.Гайды](https://guides.kontur.ru/)
 * [HealthCare.gov](https://design.cms.gov/)
+* [mixpanel Design](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
+* [Pivotal](https://styleguide.pivotal.io)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
