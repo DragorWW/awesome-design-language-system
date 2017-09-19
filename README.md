@@ -61,6 +61,11 @@
 * [Clarity Design System](https://vmware.github.io/clarity/)
 * [Co-op Design manual](https://coop-design-manual.herokuapp.com/)
 * [Alfa-Bank UI lightweight library](https://alfa-laboratory.github.io/arui-feather/styleguide-fantasy/)
+* [Semantic UI](https://semantic-ui.com/)
+* [Material-UI (React)](http://www.material-ui.com/)
+* [ANT DESIGN - A UI Design Language](https://ant.design/)
+* [Element (Vue 2)](http://element.eleme.io/)
+* [UI Kit](https://getuikit.com/)
 
 ## Blog post
 * [How we’re using Component Based Design](https://medium.com/@lewisplushumphreys/how-were-using-component-based-design-5f9e3176babb)
