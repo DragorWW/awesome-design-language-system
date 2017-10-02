@@ -49,6 +49,7 @@
 * [mixpanel Design](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
 * [Pivotal](https://styleguide.pivotal.io)
 * [Photon Design System (Firefox)](http://design.firefox.com/photon/welcome.html)
+* [Code for America](http://style.codeforamerica.org/)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
