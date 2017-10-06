@@ -70,6 +70,7 @@
 * [Element (Vue 2)](http://element.eleme.io/)
 * [UI Kit](https://getuikit.com/)
 * [Atlas Kit (Atlassian) (React)](https://atlaskit.atlassian.com/)
+* [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
