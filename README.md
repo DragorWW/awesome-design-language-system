@@ -69,6 +69,7 @@
 * [ANT DESIGN - A UI Design Language](https://ant.design/)
 * [Element (Vue 2)](http://element.eleme.io/)
 * [UI Kit](https://getuikit.com/)
+* [Atlas Kit (Atlassian) (React)](https://atlaskit.atlassian.com/)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
