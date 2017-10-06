@@ -94,6 +94,7 @@
 * [Design System Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
 * [Design System Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 * [Building a design system for HealthCare.gov](https://blog.navapbc.com/building-a-design-system-for-healthcare-gov-20dc1a833ab3)
+* [Create design system guid](https://www.uxpin.com/create-design-system-guide)
 
 ## Grid
 * [Specifics 001: The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
