@@ -71,6 +71,7 @@
 * [UI Kit](https://getuikit.com/)
 * [Atlas Kit (Atlassian) (React)](https://atlaskit.atlassian.com/)
 * [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
+* [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
