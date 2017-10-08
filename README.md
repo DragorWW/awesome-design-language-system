@@ -72,6 +72,7 @@
 * [Atlas Kit (Atlassian) (React)](https://atlaskit.atlassian.com/)
 * [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
+* [Brainly style guide (CSS)](http://styleguide.brainly.com)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
