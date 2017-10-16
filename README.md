@@ -73,6 +73,7 @@
 * [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 * [Brainly style guide (CSS)](http://styleguide.brainly.com)
+* [Ring UI (jetbrains) (React)](http://www.jetbrains.org/ring-ui)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
