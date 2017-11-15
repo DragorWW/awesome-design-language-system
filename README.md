@@ -17,6 +17,7 @@
 
 ## List
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
+* [Design Guidelines](http://designguidelines.co/)
 
 ## Design system
 * Plasma design system
