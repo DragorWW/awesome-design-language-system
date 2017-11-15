@@ -19,7 +19,9 @@
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
 
 ## Design system
-* [Plasma design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
+* Plasma design system
+  * [Plasma design system (site)](http://plasma.guide/)
+  * [Plasma design system (article)](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 * [BBC Gel](http://www.bbc.co.uk/gel)
 * [Atlassian Design Language](https://atlassian.design/)
