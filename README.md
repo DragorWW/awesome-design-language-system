@@ -78,6 +78,8 @@
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 * [Brainly style guide (CSS)](http://styleguide.brainly.com)
 * [Ring UI (jetbrains) (React)](http://www.jetbrains.org/ring-ui)
+* [Modulz Design System](https://www.modulz.co/): An open–source design system of styles, components, templates, tools and documentation. ([Demo](https://www.modulz.co/showcase/), [GitHub](https://github.com/modulz/modulz))
+  * [Medium: How to construct a design system](https://medium.freecodecamp.org/how-to-construct-a-design-system-864adbf2a117)
 
 ## Tools
 * [Fabricator](https://fbrctr.github.io/)
