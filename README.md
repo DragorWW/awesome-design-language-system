@@ -28,7 +28,6 @@
 * [BBC Gel](http://www.bbc.co.uk/gel)
 * [Atlassian Design Language](https://atlassian.design/)
 * [Google Material Design](https://material.google.com/)
-* [Lightning (Salesforce)](https://www.lightningdesignsystem.com/)
 * [Mailchimp (email design guide)](http://mailchimp.com/resources/email-design-guide/)
 * [Blackboard](http://design.blackboard.com/)
 * [Disqus](https://disqus.com/pages/style-guide/)
@@ -57,13 +56,15 @@
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
-* [Primer (GitHub)](http://primercss.io/)
-* [Rizzo (Lonely Planet)](https://rizzo.lonelyplanet.com/)
-* [Solid (Buzzfeed)](http://solid.buzzfeed.com/)
-* [Mailchimp](https://ux.mailchimp.com/)
+* [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
+* [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
+* [Solid](http://solid.buzzfeed.com/): by Buzzfeed ([GitHub](https://github.com/buzzfeed/solid))
+  * [Medium: Introducing Solid](https://medium.com/buzzfeed-design/introducing-solid-1c16b1bf4868)
+* [MailChimp Pattern Library](https://ux.mailchimp.com/): by MailChimp
 * [Ellucian](https://styleguide.elluciancloud.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Yelp](https://www.yelp.com/styleguide)
+* [Lightning Design System](https://www.lightningdesignsystem.com/): by Salesforce ([Demo](https://www.lightningdesignsystem.com/components/overview/), [GitHub](https://github.com/salesforce-ux/design-system))
 * [Clarity Design System](https://vmware.github.io/clarity/)
 * [Co-op Design manual](https://coop-design-manual.herokuapp.com/)
 * [Alfa-Bank UI lightweight library](https://alfa-laboratory.github.io/arui-feather/styleguide-fantasy/)
