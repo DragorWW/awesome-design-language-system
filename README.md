@@ -58,6 +58,7 @@
 * [Marvel](https://marvelapp.com/styleguide/)
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
 * [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
+* [Backpack UI](https://lonelyplanet.github.io/backpack-ui): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/backpack-ui), [Demo](https://lonelyplanet.github.io/backpack-ui))
 * [Solid](http://solid.buzzfeed.com/): by Buzzfeed ([GitHub](https://github.com/buzzfeed/solid))
   * [Medium: Introducing Solid](https://medium.com/buzzfeed-design/introducing-solid-1c16b1bf4868)
 * [MailChimp Pattern Library](https://ux.mailchimp.com/): by MailChimp
