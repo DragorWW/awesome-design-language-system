@@ -52,7 +52,7 @@
 * [Code for America](http://style.codeforamerica.org/)
 
 ## Design system frontend
-* [Marvel](https://marvelapp.com/styleguide/)
+* [Marvel](https://marvelapp.com/styleguide/) by Marvel
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
 * [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](http://plasma.guide/storybook/))
   * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
@@ -78,6 +78,8 @@
 * [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 * [Brainly style guide (CSS)](http://styleguide.brainly.com)
+* [Grommet](http://grommet.io/): bu Hewlett Packard ([GitHub](https://github.com/grommet/grommet), [Demo](http://grommet.io/docs/components/))
+
 * [Ring UI (jetbrains) (React)](http://www.jetbrains.org/ring-ui)
 * [Modulz Design System](https://www.modulz.co/): An open–source design system of styles, components, templates, tools and documentation. ([Demo](https://www.modulz.co/showcase/), [GitHub](https://github.com/modulz/modulz))
   * [Medium: How to construct a design system](https://medium.freecodecamp.org/how-to-construct-a-design-system-864adbf2a117)
