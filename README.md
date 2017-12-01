@@ -20,9 +20,6 @@
 * [Design Guidelines](http://designguidelines.co/)
 
 ## Design system
-* Plasma design system
-  * [Plasma design system (site)](http://plasma.guide/)
-  * [Plasma design system (article)](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 * [Universal Windows Platform Guidelines (Microsoft)](https://developer.microsoft.com/en-us/windows/apps/design)
 * [BBC Gel](http://www.bbc.co.uk/gel)
@@ -57,6 +54,8 @@
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/)
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
+* [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](http://plasma.guide/storybook/))
+  * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
 * [Backpack UI](https://lonelyplanet.github.io/backpack-ui): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/backpack-ui), [Demo](https://lonelyplanet.github.io/backpack-ui))
 * [Solid](http://solid.buzzfeed.com/): by Buzzfeed ([GitHub](https://github.com/buzzfeed/solid))
