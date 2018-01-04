@@ -47,12 +47,12 @@
 * [[🇷🇺]Контур.Гайды](https://guides.kontur.ru/)
 * [HealthCare.gov](https://design.cms.gov/)
 * [mixpanel Design](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
-* [Pivotal](https://styleguide.pivotal.io)
 * [Photon Design System (Firefox)](http://design.firefox.com/photon/welcome.html)
 * [Code for America](http://style.codeforamerica.org/)
 
 ## Design system frontend
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
+* [Pivotal](https://styleguide.pivotal.io)
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
 * [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](http://plasma.guide/storybook/))
   * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
