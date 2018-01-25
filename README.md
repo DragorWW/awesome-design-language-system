@@ -54,8 +54,9 @@
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
 * [Pivotal](https://styleguide.pivotal.io)
+* [Predix UI](https://www.predix-ui.com) ([GitHub](https://github.com/PredixDev), [Demo](http://primercss.io/storybook))
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
-* [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](http://plasma.guide/storybook/))
+* [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](https://www.predix-ui.com/#/gallery))
   * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
 * [Backpack UI](https://lonelyplanet.github.io/backpack-ui): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/backpack-ui), [Demo](https://lonelyplanet.github.io/backpack-ui))
