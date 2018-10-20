@@ -81,6 +81,7 @@
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 * [Brainly style guide (CSS)](http://styleguide.brainly.com)
 * [Grommet](http://grommet.io/): bu Hewlett Packard ([GitHub](https://github.com/grommet/grommet), [Demo](http://grommet.io/docs/components/))
+* [Evergreen](https://evergreen.segment.com/): by Segment ([GitHub](https://github.com/segmentio/evergreen/), [Demo](https://evergreen.segment.com/))
 
 * [Ring UI (jetbrains) (React)](http://www.jetbrains.org/ring-ui)
 * [Modulz Design System](https://www.modulz.co/): An open–source design system of styles, components, templates, tools and documentation. ([Demo](https://www.modulz.co/showcase/), [GitHub](https://github.com/modulz/modulz))
