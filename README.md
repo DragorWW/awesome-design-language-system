@@ -55,6 +55,7 @@
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
 * [Pivotal](https://styleguide.pivotal.io)
+* [RSUITE](https://rsuitejs.com/en/) ([GitHub](https://github.com/rsuite/rsuite), [Demo](https://rsuitejs.com/en/components/overview))
 * [Predix UI](https://www.predix-ui.com) ([GitHub](https://github.com/PredixDev), [Demo](http://primercss.io/storybook))
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
 * [Plasma design system](http://plasma.guide/): bu WeConnect ([GitHub](https://github.com/WeConnect/plasma), [Demo](https://www.predix-ui.com/#/gallery))
