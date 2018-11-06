@@ -6,7 +6,6 @@
 
 ## Contents
 
-- [List](#list)
 - [Design system](#design-system)
 - [Design system frontend](#Design-system-frontend)
 - [Tools](#tools)
@@ -14,10 +13,6 @@
 - [Grid](#grid)
 - [Other](#other)
 
-
-## List
-* [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
-* [Design Guidelines](http://designguidelines.co/)
 
 ## Design system
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
