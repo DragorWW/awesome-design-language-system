@@ -46,6 +46,11 @@
 * [Photon Design System (Firefox)](http://design.firefox.com/photon/welcome.html)
 * [Code for America](http://style.codeforamerica.org/)
 
+| Name | Token | Icon | Component |
+| --- | --- | --- | --- |
+| [Marvel](https://marvelapp.com/styleguide/) by Marvel | ✓  | ✗ | ✓  |
+| [Pivotal](https://styleguide.pivotal.io) | ✗ | ✗ | ✓ |
+
 ## Design system frontend
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
