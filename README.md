@@ -59,6 +59,7 @@
   * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/plasma-design-system-4d63fb6c1afc)
 * [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
 * [Backpack UI](https://lonelyplanet.github.io/backpack-ui): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/backpack-ui), [Demo](https://lonelyplanet.github.io/backpack-ui))
+* [Storybook Design System](https://storybook-design-system.netlify.com/): by Storybook ([Demo](https://storybook-design-system.netlify.com/), [GitHub](https://github.com/storybookjs/design-system))
 * [Solid](http://solid.buzzfeed.com/): by Buzzfeed ([GitHub](https://github.com/buzzfeed/solid))
   * [Medium: Introducing Solid](https://medium.com/buzzfeed-design/introducing-solid-1c16b1bf4868)
 * [MailChimp Pattern Library](https://ux.mailchimp.com/): by MailChimp
