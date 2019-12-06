@@ -48,6 +48,7 @@
 * [Code for America](http://style.codeforamerica.org/)
 
 ## Design system frontend
+* [[🇷🇺] VKUI](https://vkcom.github.io/vkui-styleguide/): by Vkontakte ([GitHub](https://github.com/VKCOM/VKUI)) - android, ios ui kit
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
 * [Pivotal](https://styleguide.pivotal.io)
