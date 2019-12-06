@@ -15,6 +15,7 @@
 
 
 ## Design system
+* [[🇷🇺] Gov.design](http://gov.design/) ([Github](https://github.com/govdesign)) - Дизайн государственных систем России
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 * [Universal Windows Platform Guidelines (Microsoft)](https://developer.microsoft.com/en-us/windows/apps/design)
 * [BBC Gel](http://www.bbc.co.uk/gel)
