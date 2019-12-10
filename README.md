@@ -14,6 +14,9 @@
 - [Other](#other)
 
 
+## Meta Design system
+- [Atomic Design](http://atomicdesign.bradfrost.com/) ( [Ebook](http://atomicdesign.bradfrost.com/table-of-contents/), [Blog post](https://bradfrost.com/blog/post/atomic-web-design/))
+
 ## Design system
 * [[🇷🇺] Gov.design](http://gov.design/) ([Github](https://github.com/govdesign)) - Дизайн государственных систем России
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
