@@ -83,6 +83,7 @@
 * [Carbon by IBM (React)](http://react.carbondesignsystem.com/)
 * [Coursera ui (React)](https://webedx-spark.github.io/coursera-ui)
 * [Brainly style guide (CSS)](http://styleguide.brainly.com)
+* [Pajamas](https://design.gitlab.com/): by Gitlab ([Source](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com), [Sketch](https://gitlab.com/gitlab-org/gitlab-design/blob/master/doc/sketch-ui-kit.md#files))
 * [Grommet](http://grommet.io/): bu Hewlett Packard ([GitHub](https://github.com/grommet/grommet), [Demo](http://grommet.io/docs/components/))
 * [Evergreen](https://evergreen.segment.com/): by Segment ([GitHub](https://github.com/segmentio/evergreen/), [Demo](https://evergreen.segment.com/))
 
