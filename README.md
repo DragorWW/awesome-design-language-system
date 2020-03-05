@@ -18,7 +18,6 @@
 - [Atomic Design](http://atomicdesign.bradfrost.com/) ( [Ebook](http://atomicdesign.bradfrost.com/table-of-contents/), [Blog post](https://bradfrost.com/blog/post/atomic-web-design/))
 
 ## Design system
-* [Airbnb (article)](http://airbnb.design/building-a-visual-language/)
 * [Atlassian Design Language](https://atlassian.design/)
 * [BBC Gel](http://www.bbc.co.uk/gel)
 * [Blackboard](http://design.blackboard.com/)
@@ -97,6 +96,7 @@
 * [Storybook](https://storybook.js.org/)
 
 ## Blog post
+* [Airbnb (article)](http://airbnb.design/building-a-visual-language/)
 * [How we’re using Component Based Design](https://medium.com/@lewisplushumphreys/how-were-using-component-based-design-5f9e3176babb)
 * [Creating a Design System Language…](https://medium.com/globoforce-design/creating-a-design-system-158a2d832551)
 * [Plasma design system](https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc)
