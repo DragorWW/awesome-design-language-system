@@ -15,7 +15,7 @@
 
 
 ## Meta Design system
-- [Atomic Design](http://atomicdesign.bradfrost.com/) ( [Ebook](http://atomicdesign.bradfrost.com/table-of-contents/), [Blog post](https://bradfrost.com/blog/post/atomic-web-design/))
+- [Atomic Design](http://atomicdesign.bradfrost.com/) ([Ebook](http://atomicdesign.bradfrost.com/table-of-contents/), [Blog post](https://bradfrost.com/blog/post/atomic-web-design/))
 
 ## Design system
 * [Atlassian Design Language](https://atlassian.design/)
