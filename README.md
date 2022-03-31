@@ -51,6 +51,7 @@
 * [[🇷🇺] Контур.Гайды](https://guides.kontur.ru/)
 
 ## Design system frontend
+* [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui), [Demo](https://developtodesign.com/agnosticui-examples))
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [ANT DESIGN - A UI Design Language](https://ant.design/)
 * [Atlas Kit (Atlassian) (React)](https://atlaskit.atlassian.com/)
