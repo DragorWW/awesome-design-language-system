@@ -71,6 +71,8 @@
 * [MailChimp Pattern Library](https://ux.mailchimp.com/): by MailChimp
 * [Marvel](https://marvelapp.com/styleguide/) by Marvel
 * [Material-UI (React)](http://www.material-ui.com/)
+* [Mantine](https://mantine.dev/): 
+React components library with native dark theme support ([Demo](https://ui.mantine.dev/), [GitHub](https://github.com/mantinedev/mantine))
 * [Modulz Design System](https://www.modulz.co/): An open–source design system of styles, components, templates, tools and documentation. ([Demo](https://www.modulz.co/showcase/), [GitHub](https://github.com/modulz/modulz))
   * [Medium: How to construct a design system](https://medium.freecodecamp.org/how-to-construct-a-design-system-864adbf2a117)
 * [Pajamas](https://design.gitlab.com/): by Gitlab ([Source](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com), [Sketch](https://gitlab.com/gitlab-org/gitlab-design/blob/master/doc/sketch-ui-kit.md#files))
