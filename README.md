@@ -49,6 +49,8 @@
 * [[🇷🇺] Дизайн Альфа-Банка](https://design.alfabank.ru/) ([GitHub](https://github.com/alfa-laboratory/arui-feather), [Demo](https://design.alfabank.ru/components/amount))
 * [[🇷🇺] Дизайн-система Иви](https://design.ivi.ru/)
 * [[🇷🇺] Контур.Гайды](https://guides.kontur.ru/)
+* [[🇷🇺] Consta](https://consta.design/) by Газпром нефть ([Github](https://github.com/consta-design-system), [Figma](https://www.figma.com/@consta))
+  * [VC: Как дизайн-система Consta помогает создавать новые интерфейсы из готовых компонентов](https://vc.ru/gazpromneft/676527-kak-dizayn-sistema-consta-pomogaet-sozdavat-novye-interfeysy-iz-gotovyh-komponentov)
 
 ## Design system frontend
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui), [Demo](https://developtodesign.com/agnosticui-examples))
