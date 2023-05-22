@@ -59,6 +59,7 @@
   * [VC: Как дизайн-система Consta помогает создавать новые интерфейсы из готовых компонентов](https://vc.ru/gazpromneft/676527-kak-dizayn-sistema-consta-pomogaet-sozdavat-novye-interfeysy-iz-gotovyh-komponentov)
 
 ## Design system frontend
+* [Ark UI](https://ark-ui.com/) - is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks. ([GitHub](https://github.com/chakra-ui/ark)) `React`, `Vue`
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui), [Demo](https://developtodesign.com/agnosticui-examples))
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) by Oracle
 * [ANT DESIGN - A UI Design Language](https://ant.design/)
