@@ -28,6 +28,7 @@
 * [Blackboard](http://design.blackboard.com/)
 * [Carbon by IBM](http://carbondesignsystem.com/)
 * [Code for America](http://style.codeforamerica.org/)
+* [Cloudscape](https://cloudscape.design/) by Amazon - An open source design system for the cloud ([GitHub](https://github.com/cloudscape-design/components))
 * [Disqus](https://disqus.com/pages/style-guide/)
 * [Dropbox](https://www.dropbox.com/branding/)
 * [Facebook Brand Resource Center](https://en.facebookbrand.com/)
