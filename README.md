@@ -75,6 +75,7 @@
 * [Ellucian](https://styleguide.elluciancloud.com/)
 * [Evergreen](https://evergreen.segment.com/): by Segment ([GitHub](https://github.com/segmentio/evergreen/), [Demo](https://evergreen.segment.com/))
 * [Fabric](http://dev.office.com/fabric#/): By Microsoft for MS Office ([GitHub](https://github.com/OfficeDev/office-ui-fabric-react), [Demo](https://developer.microsoft.com/en-us/fabric#/components))
+* [Frosted UI](https://storybook.whop.com/): ([GitHub](https://github.com/whopio/frosted-ui))
 * [Grommet](http://grommet.io/): bu Hewlett Packard ([GitHub](https://github.com/grommet/grommet), [Demo](http://grommet.io/docs/components/))
 * [Lightning Design System](https://www.lightningdesignsystem.com/): by Salesforce ([Demo](https://www.lightningdesignsystem.com/components/overview/), [GitHub](https://github.com/salesforce-ux/design-system))
 * [MailChimp Pattern Library](https://ux.mailchimp.com/): by MailChimp
