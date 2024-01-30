@@ -91,7 +91,7 @@ React components library with native dark theme support ([Demo](https://ui.manti
   * [Medium: Plasma design system - Creating and documenting a product design system](https://medium.com/p/
 * [Predix UI](https://www.predix-ui.com) ([GitHub](https://github.com/PredixDev), [Demo](http://primercss.io/storybook))
 * [Primer](http://primercss.io/): by GitHub ([GitHub](https://github.com/primer/primer), [Demo](http://primercss.io/storybook))
-* [Ring UI (jetbrains) (React)](http://www.jetbrains.org/ring-ui)
+* [Ring UI (React)](https://jetbrains.github.io/ring-ui/) by JetBrains
 * [React Arial](https://react-spectrum.adobe.com/react-aria/): by Adobe ([GitHub](https://github.com/adobe/react-spectrum), [Demo](https://react-spectrum.adobe.com/react-aria/components.html)) - Craft world-class accessible components with custom styles.
 * [Rizzo](https://rizzo.lonelyplanet.com/): by Lonely Planet ([GitHub](https://github.com/lonelyplanet/rizzo))
 * [RSUITE](https://rsuitejs.com/en/) ([GitHub](https://github.com/rsuite/rsuite), [Demo](https://rsuitejs.com/en/components/overview))
